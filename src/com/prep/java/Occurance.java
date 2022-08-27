@@ -7,6 +7,7 @@ public class Occurance {
 	public static void main(String[] args) {
 		//Main method of occurance
 		//Second line comment
+		//Third line comment
 		String str = "sukumar";
 		char [] ch = str.toCharArray();
 		
