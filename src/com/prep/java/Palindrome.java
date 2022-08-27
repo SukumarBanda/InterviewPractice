@@ -3,7 +3,8 @@ package com.prep.java;
 import java.util.Scanner;
 
 public class Palindrome {
-	//Main methos of palindrome
+	//Main method of palindrome
+	//First line of comment
 	public static void main(String[] args) {
 		System.out.print("Enter the String: ");
 		Scanner scan = new Scanner(System.in);
