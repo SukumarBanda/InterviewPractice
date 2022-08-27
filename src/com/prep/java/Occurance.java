@@ -5,7 +5,7 @@ import java.util.HashMap;
 public class Occurance {
 
 	public static void main(String[] args) {
-		
+		//Main method of occurance
 		String str = "sukumar";
 		char [] ch = str.toCharArray();
 		
